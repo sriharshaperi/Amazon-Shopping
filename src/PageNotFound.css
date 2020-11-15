@@ -1,0 +1,25 @@
+.pagenotfound {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin: auto;
+  width: 70%;
+  align-items: center;
+  margin-top: 10%;
+  padding: 5%;
+  border: 1px solid lightgray;
+}
+
+.pagenotfound__logo {
+  width: 20%;
+  height: 20%;
+}
+
+.description {
+  font-weight: normal;
+}
+
+.go__home {
+  text-decoration: none;
+  margin-top: 2%;
+}
